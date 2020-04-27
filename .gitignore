@@ -1,0 +1,6 @@
+# IDE conf
+.idea/
+*.iml
+
+# venv
+venv/
